@@ -1,0 +1,26 @@
+{
+  "nodes": {
+    "ArF4THGCMU3eF27Mh4LFM1kq": {
+      "_": {
+        "#": "ArF4THGCMU3eF27Mh4LFM1kq",
+        ">": {
+          "hello": 1470162146381
+        }
+      },
+      "hello": "world"
+    },
+    "my/first/data": {
+      "_": {
+        "#": "my/first/data",
+        "key": 1,
+        ">": {
+          "ArF4THGCMU3eF27Mh4LFM1kq": 1470162146391
+        }
+      },
+      "ArF4THGCMU3eF27Mh4LFM1kq": {
+        "#": "ArF4THGCMU3eF27Mh4LFM1kq"
+      }
+    }
+  },
+  "keys": {}
+}
