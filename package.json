@@ -1,0 +1,24 @@
+{
+  "name": "foodteam",
+  "version": "1.0.0",
+  "description": "It is a tool to group people to eat.",
+  "main": "server.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delpa/FoodTeam.git"
+  },
+  "keywords": [
+    "food",
+    "team",
+    "breaded"
+  ],
+  "author": "Edgar Quiquia García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delpa/FoodTeam/issues"
+  },
+  "homepage": "https://github.com/Delpa/FoodTeam#readme"
+}
